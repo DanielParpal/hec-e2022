@@ -22,8 +22,8 @@ Note: règle = sélecteur(s) + déclaration(s)
 6. Donnez aux cellules de l'en-tête (<th>) une bordure de dessous (border-bottom) de 2px d'épais, continue (solid) et de couleur #dee2e6.
 
 7. Donnez aux cellules de l'en-tête (<th>) ainsi qu'aux cellules du corps de la table (<td>) le style suivant :
-    7.1 Un "padding" de 12px de donner un peu d'espace dans les cellules
-    7.2 Une bordure de dessus (border-top) de 1px d'épais, continue (solid) et  de couleur #dee2e6.
+    7.1 Un "padding" de 12px afin de donner un peu d'espace dans les cellules
+    7.2 Une bordure de dessus (border-top) de 1px d'épais, continue (solid) et de couleur #dee2e6.
 
 
 

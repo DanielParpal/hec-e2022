@@ -1,0 +1,12 @@
+p, a, span {
+	color: red;
+}
+
+.paragraphe-impair, .ma-deuxieme-classe {
+	background-color: lightsalmon;
+}
+
+#premier-paragraphe {
+	font-size: 1.2em;
+	font-family: Arial;
+}
