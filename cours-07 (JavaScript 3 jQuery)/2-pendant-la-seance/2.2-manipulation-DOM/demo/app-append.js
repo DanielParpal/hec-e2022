@@ -1,0 +1,1 @@
+$('p').append(' Ceci vient d\'être <span>ajouté</span> par jQuery.');
