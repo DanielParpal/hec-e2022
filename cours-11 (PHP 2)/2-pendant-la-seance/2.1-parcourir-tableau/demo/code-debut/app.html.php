@@ -11,6 +11,9 @@
 				<h5>Liste des cours</h5>
 				<ul class="list-group">
 					<!-- Nous voulons mettre en place un algorithme pour générer la liste HTML dynamiquement -->
+					<?php foreach ($titres as $titre) {
+						echo "<li class='list-group-item'>$titre</li>";
+					} ?>
 					
 				</ul>
 			</div>
